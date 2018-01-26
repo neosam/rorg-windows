@@ -1,0 +1,6 @@
+rorg
+====
+
+Access Emacs Org Mode files over an executable.  Currently can only export clocks for a specific time range into json format.
+
+This repository also contains a python script which allows to parse the export from the binary.
